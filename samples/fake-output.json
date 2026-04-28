@@ -1,0 +1,10 @@
+{
+  "title": "Candidate Follow-Up Reminder Pilot",
+  "status": "Pilot candidate",
+  "priority": "Medium-high",
+  "risk": "Medium",
+  "pilot_scope": "One recruiting coordinator, one hiring team, and reminder drafts for a limited workflow trial.",
+  "human_review": "A person approves every outgoing message before it is sent.",
+  "success_measure": "Track time saved, missed follow-ups, and stakeholder satisfaction during the trial run.",
+  "note": "This is fictional sample data for the public showcase."
+}
