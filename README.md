@@ -1,8 +1,26 @@
 # OpsPilot AI Showcase
 
-OpsPilot AI helps organizations turn operational pain points into prioritized AI automation initiatives, implementation briefs, risk reviews, and measurable workflow improvements.
+OpsPilot AI helps operations teams turn painful workflows into safe, prioritized AI automation pilot plans with implementation briefs, risk reviews, and measurable workflow improvements.
 
-This repository is a **sanitized public showcase**. It is designed for recruiters, partners, and prospective clients who want to understand the product direction without exposing private backend code, agent prompts, scoring logic, customer data, deployment configuration, or internal business logic.
+This repository is a **sanitized public showcase** for recruiters, partners, and prospective clients searching for OpsPilot AI, AI automation planning, operations automation pilot planning, workflow automation roadmap, or responsible AI operations examples. It explains the product direction without exposing private backend code, agent prompts, scoring logic, customer data, deployment configuration, or internal business logic.
+
+## Start here
+
+- Review the [sanitized architecture overview](docs/architecture-overview.md) to understand the public/private boundary.
+- Open the [static public mockup](mockup/index.html) to see the buyer-facing workflow shape.
+- Compare [fake input](samples/fake-input.json) with [fake output](samples/fake-output.json) for the public demo story.
+- Read the [fictional case study](docs/case-study.md) for a client-ready narrative.
+
+## Search and portfolio signals
+
+This showcase is intentionally findable for:
+
+- OpsPilot AI
+- AI automation planning
+- Operations automation pilot planning
+- Workflow automation roadmap
+- Responsible AI operations
+- Human-reviewed AI automation
 
 ## What this repo contains
 
